@@ -63,3 +63,5 @@ A curated list of resources for Kimi Code CLI, the terminal form of Moonshot AI'
 ## Contributing
 
 Open a pull request with one link per line and a plain one-line reason; only pages about Kimi Code CLI or the Kimi platform it runs on.
+
+_Last reviewed: 2026-09-22_
